@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndrerMotos", "AndrerMotos\AndrerMotos.csproj", "{DD89F64B-D68D-44E5-A07F-E3AB6148CA7C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dominio", "Dominio", "{001BC816-0B89-4A91-9A22-5686FDA81052}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndreMotos.Dominio", "AndreMotos.Dominio\AndreMotos.Dominio.csproj", "{A15A8F80-C594-4727-921F-F65E8351367B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra", "Infra", "{407C3718-B714-4B84-9BBD-6853B86288F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndreMotos.Data", "AndreMotos.Data\AndreMotos.Data.csproj", "{099E8E1A-84F0-4644-9B98-A37CB2462EE4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Aplicacao", "Aplicacao", "{11BB9376-8E73-4E59-955C-446E4058AD68}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndreMotos.Applicacao", "AndreMotos.Application\AndreMotos.Applicacao.csproj", "{9AB7213F-0BD3-42B3-9D03-A79BB71AA15F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD89F64B-D68D-44E5-A07F-E3AB6148CA7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD89F64B-D68D-44E5-A07F-E3AB6148CA7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD89F64B-D68D-44E5-A07F-E3AB6148CA7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD89F64B-D68D-44E5-A07F-E3AB6148CA7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A15A8F80-C594-4727-921F-F65E8351367B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A15A8F80-C594-4727-921F-F65E8351367B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A15A8F80-C594-4727-921F-F65E8351367B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A15A8F80-C594-4727-921F-F65E8351367B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{099E8E1A-84F0-4644-9B98-A37CB2462EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{099E8E1A-84F0-4644-9B98-A37CB2462EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{099E8E1A-84F0-4644-9B98-A37CB2462EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{099E8E1A-84F0-4644-9B98-A37CB2462EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AB7213F-0BD3-42B3-9D03-A79BB71AA15F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AB7213F-0BD3-42B3-9D03-A79BB71AA15F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AB7213F-0BD3-42B3-9D03-A79BB71AA15F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AB7213F-0BD3-42B3-9D03-A79BB71AA15F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A15A8F80-C594-4727-921F-F65E8351367B} = {001BC816-0B89-4A91-9A22-5686FDA81052}
+		{099E8E1A-84F0-4644-9B98-A37CB2462EE4} = {407C3718-B714-4B84-9BBD-6853B86288F4}
+		{9AB7213F-0BD3-42B3-9D03-A79BB71AA15F} = {11BB9376-8E73-4E59-955C-446E4058AD68}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63FA3978-399A-4736-BDA2-6630E7913B80}
+	EndGlobalSection
+EndGlobal

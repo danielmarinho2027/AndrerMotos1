@@ -1,0 +1,11 @@
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndreMotos.Dominio\bin\Debug\AndreMotos.Dominio.dll
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndreMotos.Dominio\bin\Debug\AndreMotos.Dominio.pdb
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndreMotos.Dominio\obj\Debug\AndreMotos.Dominio.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndreMotos.Dominio\obj\Debug\AndreMotos.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndreMotos.Dominio\obj\Debug\AndreMotos.Dominio.dll
+C:\Users\Daniel\Desktop\Programação\AndrerMotos\AndreMotos.Dominio\obj\Debug\AndreMotos.Dominio.pdb
+C:\Users\Acer\Downloads\AndrerMotos-main\AndreMotos.Dominio\bin\Debug\AndreMotos.Dominio.dll
+C:\Users\Acer\Downloads\AndrerMotos-main\AndreMotos.Dominio\bin\Debug\AndreMotos.Dominio.pdb
+C:\Users\Acer\Downloads\AndrerMotos-main\AndreMotos.Dominio\obj\Debug\AndreMotos.Dominio.csprojAssemblyReference.cache
+C:\Users\Acer\Downloads\AndrerMotos-main\AndreMotos.Dominio\obj\Debug\AndreMotos.Dominio.dll
+C:\Users\Acer\Downloads\AndrerMotos-main\AndreMotos.Dominio\obj\Debug\AndreMotos.Dominio.pdb

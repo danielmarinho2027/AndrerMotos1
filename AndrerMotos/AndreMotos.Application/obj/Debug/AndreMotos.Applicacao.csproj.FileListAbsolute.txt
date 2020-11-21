@@ -1,0 +1,16 @@
+D:\Downloads\AndrerMotos-main\AndrerMotos-main\AndreMotos.Application\bin\Debug\AndreMotos.Application.dll
+D:\Downloads\AndrerMotos-main\AndrerMotos-main\AndreMotos.Application\bin\Debug\AndreMotos.Application.pdb
+D:\Downloads\AndrerMotos-main\AndrerMotos-main\AndreMotos.Application\bin\Debug\AndreMotos.Data.dll
+D:\Downloads\AndrerMotos-main\AndrerMotos-main\AndreMotos.Application\bin\Debug\AndreMotos.Dominio.dll
+D:\Downloads\AndrerMotos-main\AndrerMotos-main\AndreMotos.Application\bin\Debug\FluentValidation.dll
+D:\Downloads\AndrerMotos-main\AndrerMotos-main\AndreMotos.Application\bin\Debug\EntityFramework.dll
+D:\Downloads\AndrerMotos-main\AndrerMotos-main\AndreMotos.Application\bin\Debug\AndreMotos.Data.pdb
+D:\Downloads\AndrerMotos-main\AndrerMotos-main\AndreMotos.Application\bin\Debug\AndreMotos.Data.dll.config
+D:\Downloads\AndrerMotos-main\AndrerMotos-main\AndreMotos.Application\bin\Debug\AndreMotos.Dominio.pdb
+D:\Downloads\AndrerMotos-main\AndrerMotos-main\AndreMotos.Application\bin\Debug\FluentValidation.xml
+D:\Downloads\AndrerMotos-main\AndrerMotos-main\AndreMotos.Application\bin\Debug\EntityFramework.xml
+D:\Downloads\AndrerMotos-main\AndrerMotos-main\AndreMotos.Application\obj\Debug\AndreMotos.Applicacao.csprojAssemblyReference.cache
+D:\Downloads\AndrerMotos-main\AndrerMotos-main\AndreMotos.Application\obj\Debug\AndreMotos.Applicacao.csproj.CoreCompileInputs.cache
+D:\Downloads\AndrerMotos-main\AndrerMotos-main\AndreMotos.Application\obj\Debug\AndreMotos.Applicacao.csproj.CopyComplete
+D:\Downloads\AndrerMotos-main\AndrerMotos-main\AndreMotos.Application\obj\Debug\AndreMotos.Application.dll
+D:\Downloads\AndrerMotos-main\AndrerMotos-main\AndreMotos.Application\obj\Debug\AndreMotos.Application.pdb

@@ -1,0 +1,15 @@
+C:\Users\Acer\Downloads\AndrerMotos-main\AndreMotos.Application\obj\Debug\AndreMotos.Application.csprojAssemblyReference.cache
+C:\Users\Acer\Downloads\AndrerMotos-main\AndreMotos.Application\bin\Debug\AndreMotos.Application.dll
+C:\Users\Acer\Downloads\AndrerMotos-main\AndreMotos.Application\bin\Debug\AndreMotos.Application.pdb
+C:\Users\Acer\Downloads\AndrerMotos-main\AndreMotos.Application\bin\Debug\AndreMotos.Data.dll
+C:\Users\Acer\Downloads\AndrerMotos-main\AndreMotos.Application\bin\Debug\AndreMotos.Dominio.dll
+C:\Users\Acer\Downloads\AndrerMotos-main\AndreMotos.Application\bin\Debug\FluentValidation.dll
+C:\Users\Acer\Downloads\AndrerMotos-main\AndreMotos.Application\bin\Debug\EntityFramework.dll
+C:\Users\Acer\Downloads\AndrerMotos-main\AndreMotos.Application\bin\Debug\AndreMotos.Data.pdb
+C:\Users\Acer\Downloads\AndrerMotos-main\AndreMotos.Application\bin\Debug\AndreMotos.Data.dll.config
+C:\Users\Acer\Downloads\AndrerMotos-main\AndreMotos.Application\bin\Debug\AndreMotos.Dominio.pdb
+C:\Users\Acer\Downloads\AndrerMotos-main\AndreMotos.Application\bin\Debug\FluentValidation.xml
+C:\Users\Acer\Downloads\AndrerMotos-main\AndreMotos.Application\bin\Debug\EntityFramework.xml
+C:\Users\Acer\Downloads\AndrerMotos-main\AndreMotos.Application\obj\Debug\AndreMotos.Application.csproj.CopyComplete
+C:\Users\Acer\Downloads\AndrerMotos-main\AndreMotos.Application\obj\Debug\AndreMotos.Application.dll
+C:\Users\Acer\Downloads\AndrerMotos-main\AndreMotos.Application\obj\Debug\AndreMotos.Application.pdb
